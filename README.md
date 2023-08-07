@@ -7,3 +7,4 @@ Python study log
 2. [Median](https://nbviewer.org/github/OddThumb/Pytudy/blob/main/Median.ipynb): Making a median function.
 3. [Spiral array](https://nbviewer.org/github/OddThumb/Pytudy/blob/a33e73362e7dbf40622bad1172c625e779a7df5c/Spiral%20Array.ipynb): Generating spiral array in 2D grid with making use of complex number for shifting direction.
 4. [Self number](https://nbviewer.org/github/OddThumb/Pytudy/blob/947bbe5fecacca9ba42b382dc59f72495e9b532e/Self%20Number.ipynb): Searching for the self numbers by excluding the generated numbers with the generator function.
+5. [Multiples](https://nbviewer.org/github/OddThumb/Pytudy/blob/5857342a80c7e95ac40dc74fb8115ae65df0646a/Multiples.ipynb): Get multiples of 2 numbers or more under the such limit.
